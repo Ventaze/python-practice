@@ -12,7 +12,7 @@
 | 4  | `shapes.py`        | Абстрактний клас `Shape`, спадкоємці `Rectangle` і `Circle`, поліморфізм |
 | 5  | `logger_patterns`         | Завдання 5 — логування помилок у файл з датою                        |
 | 6  | `fastapi_server.py`, `requests_client.py` | Сервер FastAPI + клієнт requests, відповідає {'status': 'ok'} |
-| —  | `Ivan_Derbeko_Report.txt` | Звіт про виконання практики                                    |
+| —  | `Ivan_Derbeko_Report.txt` | Звіт про практику                                    |
 
 # Запускати через Python3:
 
